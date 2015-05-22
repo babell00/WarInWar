@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kuba:war">
+    <output-path>$PROJECT_DIR$/../kuba/target</output-path>
+    <root id="archive" name="kuba.war">
+      <element id="artifact" artifact-name="kuba:war exploded" />
+    </root>
+  </artifact>
+</component>
